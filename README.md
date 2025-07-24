@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2M1d3pxbmtqOHNsMzB0aGN5Z2FzdHFmZGtsMTg0dHlmNjAzMWxpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/108JHWB1hruZnq/giphy.gif" width="200"/></p>
+<p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFpZzM3eGpleHN2M3Z6Ym9waDE4cXoyNTUzZjZpMTkwNDhud2ttayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/></p>
 
 <h3 align="center">Hi there ~ It's Nikhil 🙋🏻</h3>
 
@@ -26,6 +26,7 @@ Hi there! I'm Nikhil Jadhav, a friendly and passionate Senior Data Engineer with
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadooplogoColor=black)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 - Database 
 
